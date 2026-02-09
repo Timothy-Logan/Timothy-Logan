@@ -7,7 +7,7 @@ Seeking Summer 2026 Co-op Opportunities in ML/AI
 I'm passionate about building production-ready machine learning systems. Currently developing ML models with end-to-end deployment pipelines using Docker, FastAPI, and cloud platforms. Strong foundation in Python and data science with hands-on experience in model development and API design.
 
 ## 🛠️ Technical Stack
-**Languages**: Python, SQL  
+**Languages**: Python, SQL, Some HTML  
 **ML/Data**: TensorFlow, scikit-learn, Pandas, NumPy  
 **Cloud & Deployment**: Docker, FastAPI, GCP, Google Artifact Registry  
 **Tools**: Git, Jupyter, VS Code
