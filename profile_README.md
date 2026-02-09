@@ -16,9 +16,6 @@ I'm passionate about building production-ready machine learning systems. Current
 - **[Weather Prediction Model](https://github.com/Timothy-Logan/Weather-Prediction-Model-)** - FastAPI ML service with Docker deployment for temperature forecasting
 - **[Movie Recommender CLI](https://github.com/Timothy-Logan/movie-recommender-cli)** - Content-based recommendation engine using TF-IDF similarity
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Timothy-Logan&show_icons=true&theme=default)
-
 ## 📫 Let's Connect
 - 📧 Email: [tjlogan9@gmail.com](mailto:tjlogan9@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/timothyjlogan](https://linkedin.com/in/timothyjlogan)
