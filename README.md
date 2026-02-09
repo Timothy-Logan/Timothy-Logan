@@ -6,6 +6,10 @@ Seeking Summer 2026 Co-op Opportunities in ML/AI
 ## 🎯 About Me
 I'm passionate about building production-ready machine learning systems. Currently developing ML models with end-to-end deployment pipelines using Docker, FastAPI, and cloud platforms. Strong foundation in Python and data science with hands-on experience in model development and API design.
 
+## 📈 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timothy-Logan&theme=default)
+
 ## 🛠️ Technical Stack
 
 ### Languages & Frameworks
