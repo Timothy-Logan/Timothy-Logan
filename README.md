@@ -1,4 +1,4 @@
-# Hi, I'm Timothy Logan 👋
+# Hi, I'm Tim Logan 👋
 
 **3rd Year Artificial Intelligence Student** | Durham College  
 Seeking Summer 2026 Co-op Opportunities in ML/AI
