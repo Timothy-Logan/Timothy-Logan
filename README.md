@@ -9,7 +9,6 @@ I'm passionate about building production-ready machine learning systems. Current
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timothy-Logan&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothy-Logan&layout=compact&theme=default&date=20250210)
 
 ## 🛠️ Technical Stack
 
