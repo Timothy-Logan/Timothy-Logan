@@ -1,12 +1,12 @@
-# Hi, I'm Tim Logan 👋
+# Hi, I'm Tim Logan 
 
 **3rd Year Artificial Intelligence Student** | Durham College  
 Seeking Summer 2026 Co-op Opportunities in ML/AI
 
-## 🎯 About Me
+##  About Me
 I'm passionate about building production-ready machine learning systems. Currently developing ML models with end-to-end deployment pipelines using Docker, FastAPI, and cloud platforms. Strong foundation in Python and data science with hands-on experience in model development and API design.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,13 +25,6 @@ I'm passionate about building production-ready machine learning systems. Current
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Featured Projects
-- **[Weather Prediction Model](https://github.com/Timothy-Logan/Weather-Prediction-Model-)** - FastAPI ML service with Docker deployment for temperature forecasting
-- **[Movie Recommender CLI](https://github.com/Timothy-Logan/movie-recommender-cli)** - Content-based recommendation engine using TF-IDF similarity
-
-## 📫 Let's Connect
+## Let's Connect
 - 📧 Email: [tjlogan9@gmail.com](mailto:tjlogan9@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/timothyjlogan](https://linkedin.com/in/timothyjlogan)
-
----
-💡 Currently learning: AWS cloud deployment, advanced Claude prompting, and scalable ML architectures
